@@ -2,8 +2,8 @@
 title: Fernanda Tosta
 
 # URL
-url: http://fernandatosta.com
-baseurl: '/fernandatosta.com'
+url: https://fernandatosta-com.github.io
+baseurl: '/2017.fernandatosta.com'
 permalink: post/:title/
 
 # Build settings
